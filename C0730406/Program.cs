@@ -14,6 +14,9 @@ namespace C0730406
             int i = 1;
             int j = 2;
             int k = 6;
+            int s = 9;
+            int y = 4;
+
         }
     }
 }
