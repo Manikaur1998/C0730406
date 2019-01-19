@@ -12,7 +12,7 @@ namespace C0730406
         {
             Console.WriteLine(1 + 1);
             int i = 1;
-
+            int j = 2;
         }
     }
 }
